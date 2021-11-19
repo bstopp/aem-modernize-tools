@@ -606,7 +606,7 @@ Bundle-DocURL:
                     <dependency>
                         <groupId>org.osgi</groupId>
                         <artifactId>org.osgi.annotation.versioning</artifactId>
-                        <version>1.1.1</version>
+                        <version>1.1.2</version>
                         <scope>provided</scope>
                     </dependency>
                     <dependency>
@@ -828,7 +828,7 @@ Bundle-DocURL:
                     <dependency>
                         <groupId>org.osgi</groupId>
                         <artifactId>org.osgi.annotation.versioning</artifactId>
-                        <version>1.1.1</version>
+                        <version>1.1.2</version>
                         <scope>provided</scope>
                     </dependency>
                     <dependency>
