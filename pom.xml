@@ -198,7 +198,7 @@
                     <version>2.5.3</version>
                     <configuration>
                         <useReleaseProfile>false</useReleaseProfile>
-                        <releaseProfiles>release</releaseProfiles>
+                        <releaseProfiles>aemaacsDeps,aemaacs,release</releaseProfiles>
                         <autoVersionSubmodules>true</autoVersionSubmodules>
                         <projectVersionPolicyId>OddEvenVersionPolicy</projectVersionPolicyId>
                     </configuration>
@@ -650,7 +650,7 @@ Bundle-DocURL:
                     <dependency>
                         <groupId>javax.servlet</groupId>
                         <artifactId>javax.servlet-api</artifactId>
-                        <version>3.1.0</version>
+                        <version>4.0.1</version>
                         <scope>provided</scope>
                     </dependency>
                     <dependency>
